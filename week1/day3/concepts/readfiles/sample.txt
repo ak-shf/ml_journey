@@ -1,0 +1,5 @@
+Hello, this is line 1
+Python file handling is important
+Machine Learning needs good data pipelines
+Error handling prevents crashes
+This is the last line
